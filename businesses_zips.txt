@@ -1,0 +1,117 @@
+1stdibs 10016
+helloalfred 10013
+andela 10001
+appboy 10018
+appnexus 10010
+artsy 10013
+baublebar 10010
+bark 10021
+bettercloud d Sta
+betterment 10010
+birchbox 10012
+blueapron 10010
+bondstreet k, NY
+bonobos 10003
+businessinsider 10006
+buzzfeed 10011
+canary 10017
+casper 10032
+codecademy 10012
+cockroachlabs 10003
+collective 10003
+commonbond 10012
+compass d Sta
+contently 10012
+dashlane 10010
+datadoghq 10018
+dataminr d Sta
+dia 10013
+digitalasset 10012
+digitalocean 10013
+doubleclickbygoogle 0
+enigma 10016
+etsy 11201
+everydayhealth 10014
+execthread d Sta
+fanduel 10010
+flatiron k, NY
+fogcreek 10004
+foursquare 10010
+generalassemb 10010
+genius 10001
+giphy 0
+glamsquad 10010
+greenhouse 11421
+grovo 10010
+handy 10011
+harrys 10019
+hellofresh 10010
+hightower 10017
+hometeam 10010
+huffingtonpost 10003
+iextrading 10007
+invisionapp 10018
+jet 0
+justworks 10001
+kickstarter 10002
+knewton 10011
+kobaltmusic 10014
+learnvest 10003
+littlebits 10001
+liveintent 10038
+makerbot 11232
+managedbyq 0
+mealpal 10018
+meetup 10012
+modaoperandi 10013
+modernmeadow 07110
+mongodb 10036
+themuse 11237
+namely 10007
+newscred 10016
+ondeck 10018
+orchardplatform 10010
+hioscar 10012
+outdoorvoices 10013
+paperlesspost 10006
+percolate 10013
+placeiq 10018
+plated 10474
+poppin d Sta
+refinery29 d Sta
+renttherunway 10014
+returnpath 10016
+Sailthru 10007
+seamless 10018
+seatgeek 10003
+secondmarket 10011
+shapeways d Sta
+shutterstock d Sta
+skillshare 0
+smartling 10018
+sprinklr 10001
+squarespace 10014
+stackexchange 10038
+taboola 10010
+talkspace 10003
+taykey 10010
+thrillist 10012
+trello 10004
+triplelift d Sta
+tumblr 10003
+drivewithvia 11101
+vice 11211
+voxmedia 10004
+vroom 10018
+vts 10018
+warbyparker 10017
+wayup 10001
+webmd 10014
+wework 10011
+workmarket 10018
+x 10012
+yext d Sta
+yieldbot 10010
+yieldmo d Sta
+younow 10018
+zocdoc 10012
