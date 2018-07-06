@@ -1,5 +1,4 @@
 import googlemaps
-import json
 gmaps = googlemaps.Client(key='')
 
 # function to write to file
