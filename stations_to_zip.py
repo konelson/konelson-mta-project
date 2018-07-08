@@ -3,8 +3,8 @@ from geopy.geocoders import Nominatim
 geolocator = Nominatim()
 
 def write_to_file(station_id, station_zip):
-  with open('station_zips.txt', 'a') as file:
-    file.write(station_id + ' ' + station_zip)
+  with open('station_zips.csv', 'a') as file:
+    file.write(station_id + ',' + station_zip)
     file.write('\n')
 
 def coord_to_zip(lat, long):
